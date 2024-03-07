@@ -1,5 +1,6 @@
 <template>
-	<div>route component</div>
+	<h1>route layout</h1>
+	<slot></slot>
 </template>
 
 <script setup></script>

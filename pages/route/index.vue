@@ -1,5 +1,9 @@
 <template>
-	<div>route index</div>
+	<div>route/index</div>
+
+	<NuxtLayout :name="route">
+		<NuxtPage></NuxtPage>
+	</NuxtLayout>
 </template>
 
 <script setup></script>

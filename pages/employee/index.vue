@@ -1,5 +1,6 @@
 <template>
-	<div>[[slug]]/product</div>
+	<h1>Employee Page</h1>
+	<Employee></Employee>
 </template>
 
 <script setup></script>

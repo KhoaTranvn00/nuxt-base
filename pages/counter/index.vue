@@ -1,5 +1,7 @@
 <template>
-	<div>[[slug]] index with slug: {{ $route.params.slug }}</div>
+	<h1>Counter index</h1>
+	<Counter></Counter>
+	<CounterV2></CounterV2>
 </template>
 
 <script setup></script>
